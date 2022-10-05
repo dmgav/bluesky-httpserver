@@ -8,8 +8,10 @@ flake8
 pytest
 pytest-xprocess
 sphinx
+sphinx-design
 ipython
 numpydoc
 sphinx
 sphinx_rtd_theme
+pydata_sphinx_theme
 requests

@@ -22,7 +22,8 @@ Bluesky HTTP Server Documentation
    control_re_manager
    configuration
 
-.. toctree::
+..
+  .. toctree::
    :maxdepth: 1
    :caption: Related Projects
 
